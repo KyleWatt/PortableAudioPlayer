@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CSD16327Q3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-05-14-09:48:24)
+    (mountForm default
+        (footprintRef "CSD16327Q3")
+        (spec "System")
+    )
+)

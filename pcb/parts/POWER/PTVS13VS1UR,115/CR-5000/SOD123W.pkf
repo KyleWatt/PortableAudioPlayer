@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SOD123W"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SOD123W")
+        (spec "default")
+    )
+)

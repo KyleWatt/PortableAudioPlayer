@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ADPL42002ARDZ-3.3-R7
+#/20434774/1781602/2.50/9/2/Integrated Circuit
+DEF ADPL42002ARDZ-3.3-R7 IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "ADPL42002ARDZ-3.3-R7" 1250 200 50 H V L CNN
+F2 "SOIC127P600X175-9N" 1250 100 50 H I L CNN
+F3 "https://www.analog.com/media/en/technical-documentation/data-sheets/adpl42002.pdf" 1250 0 50 H I L CNN
+F4 "20V, 200mA, Low Noise, CMOS LDO Linear Regulator" 1250 -100 50 H I L CNN "Description"
+F5 "1.75" 1250 -200 50 H I L CNN "Height"
+F6 "" 1250 -300 50 H I L CNN "Mouser Part Number"
+F7 "" 1250 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Analog Devices" 1250 -500 50 H I L CNN "Manufacturer_Name"
+F9 "ADPL42002ARDZ-3.3-R7" 1250 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VOUT_1 1 0 0 200 R 50 50 0 0 P
+X VOUT_2 2 0 -100 200 R 50 50 0 0 P
+X SENSE 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X EP 9 700 -800 200 U 50 50 0 0 P
+X VIN_2 8 1400 0 200 L 50 50 0 0 P
+X VIN_1 7 1400 -100 200 L 50 50 0 0 P
+X SS 6 1400 -200 200 L 50 50 0 0 P
+X EN 5 1400 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -600 200 -600 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

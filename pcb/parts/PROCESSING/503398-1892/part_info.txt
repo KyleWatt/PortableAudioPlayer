@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=503398-1892
+PartCategory=Connector
+PackageCategory=Other
+PinCount=14
+Version=1.2
+Released=2017-11-09 11:07:48
+Downloaded=2025-10-03 15:25:47
+3D=Y

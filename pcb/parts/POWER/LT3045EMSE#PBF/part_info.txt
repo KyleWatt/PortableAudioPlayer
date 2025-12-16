@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=LT3045EMSE#PBF
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=13
+Version=2.1
+Released=2017-04-16 17:50:28
+Downloaded=2025-10-09 13:24:44
+3D=Y

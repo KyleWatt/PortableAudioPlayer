@@ -1,0 +1,16 @@
+.LM27761DSGT :1 ;Low-Noise Regulated Inverter with Integrated LDO
+SON50P200X200X80-9N
+*STM IC
+*NGS
+*PLB 1="VIN" 2="GND" 3="CPOUT" 4="VOUT" 5="VFB" 6="EN" 7="C1-" 8="C1+" 9="EP"
+*MXP 9
+*DFN LM27761DSGT
+~!Mouser Part Number (595-LM27761DSGT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM27761DSGT?qs=jK8VN%252BJp1h5Sdnd3ViQCNQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM27761DSGT)
+~!Link Datasheet (http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM27761&&fileType=pdf)
+~!Height (0.8mm)
+~!3D_Model (LM27761DSGT)
+LM27761DSGT
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

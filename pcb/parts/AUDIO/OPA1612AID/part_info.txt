@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=OPA1612AID
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2021-02-23 07:36:41
+Downloaded=2025-10-28 22:21:12
+3D=Y

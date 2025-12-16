@@ -1,0 +1,17 @@
+.632723300011 :1 ;USB Connectors WR-COM USB3.1 Type C SuperSpeed+ Rcpt
+"632723300011"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=A1 10=A2 11=A3 12=A4 13=A5 14=A6 15=A7 16=A8 17=A9 18=A10 19=A11 20=A12 21=B1 22=B2 23=B3 24=B4 25=B5 26=B6 27=B7 28=B8 29=B9 30=B10 31=B11 32=B12
+*PLB 1="GND_1" 2="GND_2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="GND_3" 10="SSTXP1" 11="SSTXN1" 12="VBUS_1" 13="CC1" 14="DP1" 15="DN1" 16="SBU1" 17="VBUS_2" 18="SSRXN2" 19="SSRXP2" 20="GND_4" 21="GND_5" 22="SSTXP2" 23="SSTXN2" 24="VBUS_3" 25="CC2" 26="DP2" 27="DN2" 28="SBU2" 29="VBUS_4" 30="SSRXN1" 31="SSRXP1" 32="GND_6"
+*MXP 32
+*DFN 632723300011
+~!Mouser Part Number (710-632723300011)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/632723300011?qs=NK6InXoXhq4%252B5eM1PePLPg%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (632723300011)
+~!Link Datasheet (http://katalog.we-online.de/em/datasheet/632723x00011.pdf)
+~!Height (2mm)
+~!3D_Model (632723300011)
+"632723300011"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 

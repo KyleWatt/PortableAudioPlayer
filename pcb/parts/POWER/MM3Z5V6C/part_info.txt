@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=MM3Z5V6C
+PartCategory=Zener Diode
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=2.1
+Released=2021-07-17 05:29:42
+Downloaded=2025-10-05 01:37:59
+3D=Y

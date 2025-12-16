@@ -1,0 +1,94 @@
+
+(EDIF
+  (rename &HTSW_102_09_G_S "HTSW_102_09_G_S")
+  (EDIFVersion 2 0 0)
+  (EDIFLevel 0)
+  (keywordMap (keywordLevel 0))
+  (status
+    (written
+      (timestamp 2025 10 11 16 39 39)
+      (dataOrigin "1851272/1781602/2.50/2/2/Connector")
+      (program "SamacSys ECAD Model HTSW_102_09_G_S"
+        (version "2.4"))))
+  (library
+  (rename &HTSW_102_09_G_S "HTSW_102_09_G_S")
+    (EDIFLevel 0)
+    (technology
+      (numberDefinition (scale 1 (e 254 -6) (unit DISTANCE)))
+      (userData GRIDRESOLUTION (integer 50 50))
+      (figureGroup DEFAULT (pathWidth 10) (textHeight 100))
+      (figureGroup PROPERTY (pathWidth 10) (textHeight 90))
+      (figureGroup PINNUMBER (pathWidth 10) (textHeight 90))
+      (figureGroup PINNAME (pathWidth 10) (textHeight 90))
+      (figureGroup COMMENT (pathWidth 10) (textHeight 90))
+      (figureGroup PIN (pathWidth 10) (textHeight 90))
+      (figureGroup GRAPHIC (pathWidth 10) (textHeight 100))
+    )
+    (cell
+      (rename &HTSW_102_09_G_S "HTSW_102_09_G_S")
+      (cellType GENERIC)
+      (view
+        (rename NORMAL "Normal")
+        (viewType SCHEMATIC)
+        (interface
+          (designator "J")
+          (property (rename PACKAGENAME "PackageName") (string "HTSW_102_09_G_S"))
+          (property (rename ISHETEROGENEOUS "IsHeterogeneous") (string "False"))
+          (property (rename DEVICESINVIEW "DevicesInView") (string "1"))
+          (property (rename DEVICESINPACKAGE "DevicesInPackage") (string "1"))
+          (property (rename DEVICEDESIGNATOR "DeviceDesignator") (string "A"))
+          (property (rename DEVICENUMBERING "DeviceNumbering") (string "Alpha"))
+          (property (rename PCB_32_FOOTPRINT "PCB Footprint") (string "HTSW10209GS"))
+          (property (rename &Mouser_Part_Number "Mouser Part Number") (string "200-HTSW10209GS"))
+          (property (rename &Mouser_Price_Stock "Mouser Price/Stock") (string "https://www.mouser.co.uk/ProductDetail/Samtec/HTSW-102-09-G-S?qs=0lQeLiL1qyZlsgTucBxUnA%3D%3D"))
+          (property (rename &Manufacturer_Name "Manufacturer_Name") (string "SAMTEC"))
+          (property (rename &Manufacturer_Part_Number "Manufacturer_Part_Number") (string "HTSW-102-09-G-S"))
+          (property (rename &Description "Description") (string "Connector Header Through Hole 2 position 0.100\" (2.54mm)"))
+          (property (rename &Datasheet_Link "Datasheet Link") (string "https://suddendocs.samtec.com/prints/htsw-xxx-xx-xxx-x-xx-xx-xx-mkt.pdf?_gl=1*q6shat*_gcl_aw*R0NMLjE3NTkxNDYwOTAuRUFJYUlRb2JDaE1JdDl6YzVmSDlqd01WWnBPREJ4MHBwQXNCRUFBWUFTQUFFZ0psaHZEX0J3RQ..*_gcl_au*MTc5OTcyNjQyOS4xNzUyMDczNjY4*_ga*NTM1MTc3ODU3LjE3MTI4MTU5"))
+          (property (rename &Height "Height") (string "8.58 mm"))
+          (property (rename &_60__32_VALUE_32__62_ "Value") (string "HTSW_102_09_G_S"))
+          (property (rename VALUE "Value") (string "Value"))
+          (port
+            (rename &1 "1")
+            (designator "1")
+            (property (rename ORDER "Order") (string "0") (owner "OrCAD"))
+          )
+          (port
+            (rename &2 "2")
+            (designator "2")
+            (property (rename ORDER "Order") (string "1") (owner "OrCAD"))
+          )
+          (symbol
+            (portImplementation
+              (name &1 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -200) (pt 0 -200))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -200))))
+            )
+            (portImplementation
+              (name &2 (display PINNAME))
+              (keywordDisplay DESIGNATOR (display PINNUMBER))
+              (figure PIN (path (pointList (pt -200 -100) (pt 0 -100))))
+              (connectLocation (figure GRAPHIC (dot (pt -200 -100))))
+            )
+            (figure GRAPHIC
+              (figureGroupOverride GRAPHIC
+                (pathWidth 10))
+              (path
+                (pointList
+                  (pt 0 0)
+                  (pt 400 0)
+                  (pt 400 -300)
+                  (pt 0 -300)
+                  (pt 0 0)
+                )
+              )
+            )
+            (keywordDisplay DESIGNATOR (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 450 130))))
+            (propertyDisplay &_60__32_VALUE_32__62_ (display PROPERTY (justify LOWERLEFT) (orientation R0) (origin (pt 450 30))))
+          )
+        )
+      )
+    )
+  )
+)

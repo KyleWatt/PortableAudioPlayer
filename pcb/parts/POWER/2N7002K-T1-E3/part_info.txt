@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=2N7002K-T1-E3
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=2.1
+Released=2015-04-13 16:59:14
+Downloaded=2025-10-05 01:06:18
+3D=Y

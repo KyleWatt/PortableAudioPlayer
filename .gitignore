@@ -1,0 +1,18 @@
+# KiCad temporary files
+*.bak
+*.bck
+*-bak
+*-cache.lib
+*-cache.dcm
+*.kicad_pcb-bak
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+fp-info-cache
+*.net
+
+# KiCad backup files
+*.000
+*.kicad_prl
+*.kicad_pro-bak

@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=CSD16327Q3
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=9
+Version=1.2
+Released=2021-05-14 09:48:24
+Downloaded=2025-10-05 00:46:43
+3D=Y

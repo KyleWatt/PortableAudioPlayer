@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "103AT2"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "103AT2")
+        (spec "default")
+    )
+)

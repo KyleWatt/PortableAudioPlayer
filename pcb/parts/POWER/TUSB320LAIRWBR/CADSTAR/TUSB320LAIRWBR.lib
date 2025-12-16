@@ -1,0 +1,16 @@
+.TUSB320LAIRWBR :1 ;Type-C Configuration Channel Logic and Port Control
+RWB0012A
+*STM IC
+*NGS
+*PLB 1="CC1" 2="CC2" 3="PORT" 4="VBUS_DET" 5="ADDR" 6="INT_N/OUT3" 7="SDA/AOUT1" 8="SCL/OUT2" 9="ID" 10="GND" 11="EN" 12="VDD"
+*MXP 12
+*DFN TUSB320LAIRWBR
+~!Mouser Part Number (595-TUSB320LAIRWBR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TUSB320LAIRWBR?qs=9xotKOP9MLapokFcaOP5ag%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TUSB320LAIRWBR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tusb320lai)
+~!Height (-)
+~!3D_Model (TUSB320LAIRWBR)
+TUSB320LAIRWBR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

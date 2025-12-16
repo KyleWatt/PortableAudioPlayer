@@ -1,0 +1,9 @@
+Manufacturer=Keystone Electronics
+PartNumber=1049
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=9
+Version=1.2
+Released=2018-06-25 14:50:00
+Downloaded=2025-10-04 16:50:41
+3D=Y

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "HTSW10209GS"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "HTSW10209GS")
+        (spec "default")
+    )
+)

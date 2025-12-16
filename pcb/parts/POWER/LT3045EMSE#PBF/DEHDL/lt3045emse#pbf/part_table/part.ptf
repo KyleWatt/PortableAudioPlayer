@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LT3045EMSE#PBF'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "LT3045EMSE#PBF" (!) = "", "SOP65P490X110-13N", "Small Outline Packages", "584-LT3045EMSE#PBF", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT3045EMSEPBF?qs=oahfZPh6IALaLGJLx0PWbw%3D%3D", "12-LEAD PLASTIC MSOP", "http://cds.linear.com/docs/en/datasheet/3045f.pdf", "1.1 mm"
+END_PART
+
+END.

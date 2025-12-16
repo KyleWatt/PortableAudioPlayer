@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TUSB320LAIRWBR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=12
+Version=1.3
+Released=2018-11-21 12:32:00
+Downloaded=2025-10-07 00:39:43
+3D=Y

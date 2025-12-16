@@ -1,0 +1,176 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "1049"
+   (description "KEYSTONE - 1049 - BATTERY HOLDER, 18650, THROUGH HOLE")
+   (family "ANA")
+   (package "1049")
+   (attribute "Datasheet Link" "http://www.keyelco.com/product.cfm/product_id/921")
+   (attribute "Geometry.Height" "14mm")
+   (attribute "Mouser Part Number" "534-1049")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1049?qs=%2F7TOpeL5Mz78b0pqEFIl5w%3D%3D")
+   (attribute "Manufacturer_Name" "Keystone Electronics")
+   (attribute "Manufacturer_Part_Number" "1049")
+   (gate
+    (symbol "1049")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "8" 8 PS)
+    (pin "9" 9 PS)
+   )
+  )
+  (symbol "1049"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -500) (pt 200 -500) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "1049"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -38.53 19.89)
+      (pt 38.53 19.89)
+      (pt 38.53 -19.89)
+      (pt -38.53 -19.89)
+      (pt -38.53 19.89))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -39.53 21.373)
+      (pt 39.53 21.373)
+      (pt 39.53 -20.89)
+      (pt -39.53 -20.89)
+      (pt -39.53 21.373))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 30 19.89)
+      (pt 38.5 19.89)
+      (pt 38.53 19.89)
+      (pt 38.53 -19.89)
+      (pt -38.53 -19.89)
+      (pt -38.53 19.89)
+      (pt 25 19.89))))
+   (leg 1 (pt -27.600 0.240) (padstack 1))
+   (leg 2 (pt -27.600 -17.290) (padstack 2))
+   (leg 3 (pt 27.600 0.240) (padstack 3))
+   (leg 4 (pt 27.600 17.710) (padstack 4))
+   (leg 5 (pt 36.110 -17.710) (padstack 5))
+   (leg 6 (pt -36.110 -9.340) (padstack 0))
+   (leg 7 (pt -36.110 9.790) (padstack 0))
+   (leg 8 (pt 36.110 -9.340) (padstack 0))
+   (leg 9 (pt 36.110 9.790) (padstack 0))
+   (padstack 0
+    (hole 1.32)
+    (plated true)
+    (pad (layer TCOP) (round 1.980))
+    (pad (layer INNER) (round 1.980))
+    (pad (layer BCOP) (round 1.980))
+   )
+   (padstack 1
+    (hole 3.18)
+    (plated true)
+    (pad (layer TCOP) (round 4.770))
+    (pad (layer INNER) (round 4.770))
+    (pad (layer BCOP) (round 4.770))
+   )
+   (padstack 2
+    (hole 3.18)
+    (plated true)
+    (pad (layer TCOP) (round 4.770))
+    (pad (layer INNER) (round 4.770))
+    (pad (layer BCOP) (round 4.770))
+   )
+   (padstack 3
+    (hole 3.55)
+    (plated true)
+    (pad (layer TCOP) (round 5.325))
+    (pad (layer INNER) (round 5.325))
+    (pad (layer BCOP) (round 5.325))
+   )
+   (padstack 4
+    (hole 3.55)
+    (plated true)
+    (pad (layer TCOP) (round 5.325))
+    (pad (layer INNER) (round 5.325))
+    (pad (layer BCOP) (round 5.325))
+   )
+   (padstack 5
+    (hole 2.38)
+    (plated true)
+    (pad (layer TCOP) (round 3.570))
+    (pad (layer INNER) (round 3.570))
+    (pad (layer BCOP) (round 3.570))
+   )
+   (model "1049.stp"
+    (euler -90 180 180)
+    (offset 0 0 -0.7200000286102295)
+   )
+  )
+ )
+)

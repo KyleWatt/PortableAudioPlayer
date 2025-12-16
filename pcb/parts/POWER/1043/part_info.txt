@@ -1,0 +1,9 @@
+Manufacturer=Keystone Electronics
+PartNumber=1043
+PartCategory=Undefined or Miscellaneous
+PackageCategory=Other
+PinCount=2
+Version=2.4
+Released=2020-09-29 16:36:03
+Downloaded=2025-10-04 22:57:51
+3D=Y

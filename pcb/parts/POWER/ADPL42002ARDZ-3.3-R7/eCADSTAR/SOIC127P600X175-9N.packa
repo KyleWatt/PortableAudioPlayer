@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ADPL42002ARDZ-3_3-R7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-10-08:50:50)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-9N")
+        (spec "System")
+    )
+)

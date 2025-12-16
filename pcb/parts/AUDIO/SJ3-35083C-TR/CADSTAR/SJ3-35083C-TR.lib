@@ -1,0 +1,16 @@
+.SJ3-35083C-TR :1 ;3.5 mm Stereo Jack, Through Hole, 3 Conductors, 1 Internal Switches,  Tape & Reel Packaging
+SJ335083CTR
+*STM J
+*NGS
+*PLB 1="SLEEVE" 2="TIP" 4="RING SWITCH" 5="RING"
+*MXP 6
+*DFN SJ3-35083C-TR
+~!Mouser Part Number (179-SJ3-35083C-TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Same-Sky/SJ3-35083C-TR?qs=IKkN%2F947nfCaz2iKZVUfKQ%3D%3D)
+~!Manufacturer_Name (Same Sky)
+~!Manufacturer_Part_Number (SJ3-35083C-TR)
+~!Link Datasheet (https://www.sameskydevices.com/product/resource/supplyframepdf/sj3-3508x.pdf)
+~!Height (5.3mm)
+~!3D_Model (SJ3-35083C-TR)
+SJ3-35083C-TR
+1.1!U 2.1!U 4.1!U 5.1!U 

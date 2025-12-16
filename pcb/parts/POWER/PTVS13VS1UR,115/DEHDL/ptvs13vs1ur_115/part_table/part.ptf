@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PTVS13VS1UR_115'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Nexperia", "PTVS13VS1UR,115" (!) = "", "SOD123W", "Other", "771-PTVS13VS1UR115", "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS13VS1UR115?qs=LMSg3oBIm%2FhUJXxROXWM%252Bg%3D%3D", "PTVSxS1UR series - 400 W Transient Voltage Suppressor", "https://assets.nexperia.com/documents/data-sheet/PTVSXS1UR_SER.pdf"
+END_PART
+
+END.

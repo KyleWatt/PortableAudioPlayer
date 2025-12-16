@@ -1,0 +1,16 @@
+.503398-1892 :1 ;MicroSD SMT Push-Push 1.28mm height MicroSD SMT Push-Push 1.28mm height
+"5033981892"
+*STM J
+*NGS
+*PLB 1="DAT2" 2="CD/DAT3" 3="CMD" 4="VDD" 5="CLK" 6="VSS" 7="DAT0" 8="DAT1" 9="DETECT LEVER" 10="DETECT SWITCH" 11="11" 12="12" 13="13" 14="14"
+*MXP 14
+*DFN 503398-1892
+~!Mouser Part Number (538-503398-1892)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/503398-1892?qs=b0v8CoHHvSMxV%252BW12iKaSg%3D%3D)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (503398-1892)
+~!Link Datasheet (http://www.molex.com/webdocs/datasheets/pdf/en-us//5033981892_MEMORY_CARD_SOCKET.pdf)
+~!Height (1.28mm)
+~!3D_Model (503398-1892)
+"503398-1892"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

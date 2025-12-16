@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=HTSW-102-09-G-S
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=2.4
+Released=2025-09-30 07:52:13
+Downloaded=2025-10-11 16:39:39
+3D=Y

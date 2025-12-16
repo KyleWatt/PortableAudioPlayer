@@ -1,0 +1,16 @@
+.CSD16327Q3 :1 ;MOSFET N-Channel NexFET Pwr MOSFET
+CSD16327Q3
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4" 9="D_5"
+*MXP 9
+*DFN CSD16327Q3
+~!Mouser Part Number (595-CSD16327Q3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CSD16327Q3?qs=3jfYfyvUSwCG33cNK3hedw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CSD16327Q3)
+~!Link Datasheet (-)
+~!Height (1.1mm)
+~!3D_Model (CSD16327Q3)
+CSD16327Q3
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

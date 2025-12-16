@@ -1,0 +1,16 @@
+.103AT-2 :1 ;NTC (Negative Temperature Coefficient) Thermistors 10kohm 1%
+"103AT2"
+*STM RT
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 103AT-2
+~!Mouser Part Number (954-103AT-2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Semitec/103AT-2?qs=wgO0AD0o1vvcDzsKguD%252Bew%3D%3D)
+~!Manufacturer_Name (Semitec)
+~!Manufacturer_Part_Number (103AT-2)
+~!Link Datasheet (https://www.semitec-global.com/uploads/2022/01/P12-13-AT-Thermistor.pdf)
+~!Height (9.5mm)
+~!3D_Model (103AT-2)
+"103AT-2"
+1.1!U 2.1!U 

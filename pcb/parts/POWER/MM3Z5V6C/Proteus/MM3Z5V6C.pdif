@@ -1,0 +1,125 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MM3Z5V6C"
+   (description "Wide Zener Voltage Range Selection, 2.4V to 75V; VZ Tolerance Selection of +/-5% (C Series); Very Small and Thin SMD package; Matte Tin(Sn) finish, Pb Free")
+   (family "DIO")
+   (package "SODFL2513X100N")
+   (attribute "Datasheet Link" "https://www.onsemi.com/pub/Collateral/MM3Z9V1C-D.PDF")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Mouser Part Number" "512-MM3Z5V6C")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/MM3Z5V6C?qs=rXqtSHp76q6mZxise9dftg%3D%3D")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "MM3Z5V6C")
+   (gate
+    (symbol "MM3Z5V6C")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "MM3Z5V6C"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 80) (pt 200 -80))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 80) (pt 240 100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 160 -100) (pt 200 -80))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 500 0) (pt 400 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 200 0) (pt 400 100) (pt 400 -100) (pt 200 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 600 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SODFL2513X100N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.71 0.875)
+      (pt 1.71 0.875)
+      (pt 1.71 -0.875)
+      (pt -1.71 -0.875)
+      (pt -1.71 0.875))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.85 0.65)
+      (pt 0.85 0.65)
+      (pt 0.85 -0.65)
+      (pt -0.85 -0.65)
+      (pt -0.85 0.65))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.85 0.24)
+      (pt -0.44 0.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.56 0.65)
+      (pt 0.85 0.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.85 -0.65)
+      (pt 0.85 -0.65))))
+   (leg 1 (pt -1.15 0) (padstack 0))
+   (leg 2 (pt 1.15 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.46 0.82 0 0 0))
+   )
+   (model "MM3Z5V6C.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

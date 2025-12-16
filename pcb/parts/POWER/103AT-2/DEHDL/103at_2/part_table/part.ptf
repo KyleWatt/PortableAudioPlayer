@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '103AT_2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Semitec", "103AT-2" (!) = "", "103AT2", "Other", "954-103AT-2", "https://www.mouser.co.uk/ProductDetail/Semitec/103AT-2?qs=wgO0AD0o1vvcDzsKguD%252Bew%3D%3D", "NTC (Negative Temperature Coefficient) Thermistors 10kohm 1%", "https://www.semitec-global.com/uploads/2022/01/P12-13-AT-Thermistor.pdf", "9.5 mm"
+END_PART
+
+END.

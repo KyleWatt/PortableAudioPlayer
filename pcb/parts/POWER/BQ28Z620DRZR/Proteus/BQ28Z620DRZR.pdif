@@ -1,0 +1,198 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "BQ28Z620DRZR"
+   (description "Battery Management Battery fuel gauge with integrated protector for 1-series to 2 series packs with 1.2-V I/O")
+   (family "ANA")
+   (package "BQ28Z610DRZT")
+   (attribute "Datasheet Link" "")
+   (attribute "Geometry.Height" "1mm")
+   (attribute "Mouser Part Number" "595-BQ28Z620DRZR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ28Z620DRZR?qs=3Rah4i%252BhyCHmiL1YWVaWZQ%3D%3D")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "BQ28Z620DRZR")
+   (gate
+    (symbol "BQ28Z620DRZR")
+    (pin "VSS" 1 PS)
+    (pin "SEN" 2 PS)
+    (pin "SRP" 3 PS)
+    (pin "TS1" 4 PS)
+    (pin "SCL" 5 PS)
+    (pin "SDA" 6 PS)
+    (pin "DSG" 7 PS)
+    (pin "PACK" 8 PS)
+    (pin "CHG" 9 PS)
+    (pin "PBI" 10 PS)
+    (pin "VC2" 11 PS)
+    (pin "VC1" 12 PS)
+    (pin "EP_1" 13 PS)
+    (pin "EP_2" 14 PS)
+    (pin "EP_3" 15 PS)
+   )
+  )
+  (symbol "BQ28Z620DRZR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -800) (pt 200 -800) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -700) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "BQ28Z610DRZT"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2 1.25)
+      (pt 2 1.25)
+      (pt 2 -1.25)
+      (pt -2 -1.25)
+      (pt -2 1.25))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.2 2.45)
+      (pt 3.2 2.45)
+      (pt 3.2 -2.45)
+      (pt -3.2 -2.45)
+      (pt -3.2 2.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.8 1.25)
+      (pt 0.8 1.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.8 -1.25)
+      (pt 0.8 -1.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.6 1)
+      (arc (pt -2.600 1.000) (pt -2.700 0.950) (pt -2.600 1.050) (start 180.0) (sweep .0))
+      (pt -2.7 1)
+      (arc (pt -2.700 1.000) (pt -2.700 0.950) (pt -2.600 1.050) (start 180.0) (sweep 180.0))
+      (pt -2.6 1))))
+   (leg 1 (pt -1.900 1.000) (padstack 0))
+   (leg 2 (pt -1.900 0.600) (padstack 0))
+   (leg 3 (pt -1.900 0.200) (padstack 0))
+   (leg 4 (pt -1.900 -0.200) (padstack 0))
+   (leg 5 (pt -1.900 -0.600) (padstack 0))
+   (leg 6 (pt -1.900 -1.000) (padstack 0))
+   (leg 7 (pt 1.900 -1.000) (padstack 0))
+   (leg 8 (pt 1.900 -0.600) (padstack 0))
+   (leg 9 (pt 1.900 -0.200) (padstack 0))
+   (leg 10 (pt 1.900 0.200) (padstack 0))
+   (leg 11 (pt 1.900 0.600) (padstack 0))
+   (leg 12 (pt 1.900 1.000) (padstack 0))
+   (leg 13 (pt 0.000 0.000) (padstack 13))
+   (leg 14 (pt -1.125 0.000) (padstack 14))
+   (leg 15 (pt 1.125 0.000) (padstack 15))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 0.600 0 0 0.000))
+   )
+   (padstack 13
+    (plated false)
+    (pad (layer TCOP) (rectf 1.950 2.050 0 0 0.000))
+   )
+   (padstack 14
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 2.900 0 0 90.000))
+   )
+   (padstack 15
+    (plated false)
+    (pad (layer TCOP) (rectf 0.200 2.900 0 0 90.000))
+   )
+   (model "BQ28Z620DRZR.stp"
+    (euler -90 180 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

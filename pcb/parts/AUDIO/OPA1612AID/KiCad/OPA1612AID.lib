@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model OPA1612AID
+#/11242481/1781602/2.50/8/3/Integrated Circuit
+DEF OPA1612AID IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "OPA1612AID" 1150 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1150 100 50 H I L CNN
+F3 "https://www.ti.com/lit/gpn/OPA1612" 1150 0 50 H I L CNN
+F4 "Audio Amplifiers 1.1nV Noise Low Pwr Prec Op Amp" 1150 -100 50 H I L CNN "Description"
+F5 "1.75" 1150 -200 50 H I L CNN "Height"
+F6 "595-OPA1612AID" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/OPA1612AID?qs=6805eV47HhZ33ht61fXkkg%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "OPA1612AID" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X OUT_A 1 0 0 200 R 50 50 0 0 P
+X -IN_A 2 0 -100 200 R 50 50 0 0 P
+X +_IN_A 3 0 -200 200 R 50 50 0 0 P
+X V- 4 0 -300 200 R 50 50 0 0 P
+X V+ 8 1300 0 200 L 50 50 0 0 P
+X OUT_B 7 1300 -100 200 L 50 50 0 0 P
+X -IN_B 6 1300 -200 200 L 50 50 0 0 P
+X +IN_B 5 1300 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

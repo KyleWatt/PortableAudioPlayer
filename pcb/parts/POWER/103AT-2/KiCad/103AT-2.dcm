@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 103AT-2
+D NTC (Negative Temperature Coefficient) Thermistors 10kohm 1%
+K
+F https://www.semitec-global.com/uploads/2022/01/P12-13-AT-Thermistor.pdf
+$ENDCMP
+#
+#End Doc Library

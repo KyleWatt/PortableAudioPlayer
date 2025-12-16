@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM27761DSGT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LM27761DSGT" (!) = "", "SON50P200X200X80-9N", "Small Outline No-lead", "595-LM27761DSGT", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM27761DSGT?qs=jK8VN%252BJp1h5Sdnd3ViQCNQ%3D%3D", "Low-Noise Regulated Inverter with Integrated LDO", "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM27761&&fileType=pdf", "0.8 mm"
+END_PART
+
+END.

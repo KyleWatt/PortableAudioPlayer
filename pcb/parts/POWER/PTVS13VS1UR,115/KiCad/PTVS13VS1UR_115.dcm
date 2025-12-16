@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTVS13VS1UR,115
+D PTVSxS1UR series - 400 W Transient Voltage Suppressor
+K
+F https://assets.nexperia.com/documents/data-sheet/PTVSXS1UR_SER.pdf
+$ENDCMP
+#
+#End Doc Library

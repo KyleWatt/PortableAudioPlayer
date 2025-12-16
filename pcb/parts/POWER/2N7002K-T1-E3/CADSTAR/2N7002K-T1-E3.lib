@@ -1,0 +1,16 @@
+.2N7002K-T1-E3 :1 ;2N7002K-T1-E3, N-channel MOSFET Transistor 0.3 A 60 V, 3-Pin SOT-23, TO-236
+SOT95P237X112-3N
+*STM IC
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN 2N7002K-T1-E3
+~!Mouser Part Number (781-2N7002K-E3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Siliconix/2N7002K-T1-E3?qs=jcx%252B0HVgj2auuEZ99jRcGQ%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (2N7002K-T1-E3)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA23/1579398.pdf)
+~!Height (1.12mm)
+~!3D_Model (2N7002K-T1-E3)
+"2N7002K-T1-E3"
+1.1!U 2.1!U 3.1!U 

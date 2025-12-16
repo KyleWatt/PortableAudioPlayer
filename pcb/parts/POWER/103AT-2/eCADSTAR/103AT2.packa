@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "103AT-2"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-03-19-10:26:50)
+    (mountForm default
+        (footprintRef "103AT2")
+        (spec "System")
+    )
+)

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BQ28Z610DRZT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BQ28Z610DRZT")
+        (spec "default")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPA6120A2DWPR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPA6120A2DWPR" (!) = "", "SOIC127P1040X275-21N", "Small Outline Packages", "595-TPA6120A2DWPR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPA6120A2DWPR?qs=ojKcPFmCWSXiGd7G5JhN2A%3D%3D", "Audio Amplifiers High Fidelity Stereo Headphone Drv", "http://www.ti.com/lit/ds/symlink/tpa6120a2.pdf", "2.75 mm"
+END_PART
+
+END.

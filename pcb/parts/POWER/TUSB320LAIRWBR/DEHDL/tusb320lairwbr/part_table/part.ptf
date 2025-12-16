@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TUSB320LAIRWBR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Texas Instruments", "TUSB320LAIRWBR" (!) = "", "RWB0012A", "Other", "595-TUSB320LAIRWBR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TUSB320LAIRWBR?qs=9xotKOP9MLapokFcaOP5ag%3D%3D", "Type-C Configuration Channel Logic and Port Control", "http://www.ti.com/lit/gpn/tusb320lai"
+END_PART
+
+END.

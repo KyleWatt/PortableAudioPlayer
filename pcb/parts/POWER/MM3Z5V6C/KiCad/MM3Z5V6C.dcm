@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MM3Z5V6C
+D Wide Zener Voltage Range Selection, 2.4V to 75V; VZ Tolerance Selection of +/-5% (C Series); Very Small and Thin SMD package; Matte Tin(Sn) finish, Pb Free
+K
+F https://www.onsemi.com/pub/Collateral/MM3Z9V1C-D.PDF
+$ENDCMP
+#
+#End Doc Library

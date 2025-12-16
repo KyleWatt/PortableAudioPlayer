@@ -1,0 +1,16 @@
+.1049 :1 ;KEYSTONE - 1049 - BATTERY HOLDER, 18650, THROUGH HOLE
+"1049"
+*STM U
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9"
+*MXP 9
+*DFN 1049
+~!Mouser Part Number (534-1049)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1049?qs=%2F7TOpeL5Mz78b0pqEFIl5w%3D%3D)
+~!Manufacturer_Name (Keystone Electronics)
+~!Manufacturer_Part_Number (1049)
+~!Link Datasheet (http://www.keyelco.com/product.cfm/product_id/921)
+~!Height (14mm)
+~!3D_Model (1049)
+"1049"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

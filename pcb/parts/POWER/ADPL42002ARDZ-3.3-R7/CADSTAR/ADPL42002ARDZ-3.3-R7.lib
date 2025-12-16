@@ -1,0 +1,16 @@
+.ADPL42002ARDZ-3.3-R7 :1 ;20V, 200mA, Low Noise, CMOS LDO Linear Regulator
+SOIC127P600X175-9N
+*STM IC
+*NGS
+*PLB 1="VOUT_1" 2="VOUT_2" 3="SENSE" 4="GND" 5="EN" 6="SS" 7="VIN_1" 8="VIN_2" 9="EP"
+*MXP 9
+*DFN ADPL42002ARDZ-3.3-R7
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADPL42002ARDZ-3.3-R7)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/adpl42002.pdf)
+~!Height (1.75mm)
+~!3D_Model (ADPL42002ARDZ-3.3-R7)
+ADPL42002ARDZ-3.3-R7
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

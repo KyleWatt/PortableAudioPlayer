@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPD4E1U06DBVR
+D Quad High Speed ESD Protection SOT-23-6 Texas Instruments TPD4E1U06DBVR Quad Uni-Directional ESD Protection Array, 45W peak, 6-Pin SOT-23
+K
+F http://www.ti.com/lit/ds/symlink/tpd4e1u06.pdf
+$ENDCMP
+#
+#End Doc Library

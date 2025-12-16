@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MM3Z5V6C'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "MM3Z5V6C" (!) = "", "SODFL2513X100N", "Small Outline Diode Flat Lead", "512-MM3Z5V6C", "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/MM3Z5V6C?qs=rXqtSHp76q6mZxise9dftg%3D%3D", "Wide Zener Voltage Range Selection, 2.4V to 75V; VZ Tolerance Selection of +/-5% (C Series); Very Small and Thin SMD package; Matte Tin(Sn) finish, Pb Free", "https://www.onsemi.com/pub/Collateral/MM3Z9V1C-D.PDF", "1 mm"
+END_PART
+
+END.

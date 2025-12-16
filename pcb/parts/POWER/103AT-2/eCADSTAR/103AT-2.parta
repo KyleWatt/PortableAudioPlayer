@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_615695"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-05-29-08:54:37)
+    (utime 2024-06-25-08:05:19)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "103AT-2")
+)
+
+
+(pinAssign "ECS_615695"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-05-29-08:54:37)
+    (utime 2024-06-25-08:05:19)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_615695")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "103AT-2")
+)
+
+
+(part "103AT-2"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-05-29-08:54:37)
+    (utime 2024-06-25-08:05:19)
+    (packageRef "103AT-2")
+    (pinAssignRef "ECS_615695")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "RT")
+    (property "description" "NTC (Negative Temperature Coefficient) Thermistors 10kohm 1%")
+    (property "Mouser_Part_Number" "954-103AT-2")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Semitec/103AT-2?qs=wgO0AD0o1vvcDzsKguD%252Bew%3D%3D")
+    (property "Manufacturer_Name" "Semitec")
+    (property "Manufacturer_Part_Number" "103AT-2")
+    (property "Datasheet_Link" "https://www.semitec-global.com/uploads/2022/01/P12-13-AT-Thermistor.pdf")
+    (property "compAreaTopHeight" 9.5)
+)
+
+

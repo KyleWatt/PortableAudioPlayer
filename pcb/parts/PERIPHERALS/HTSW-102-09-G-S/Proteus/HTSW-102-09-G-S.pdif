@@ -1,0 +1,114 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "HTSW-102-09-G-S"
+   (description "Connector Header Through Hole 2 position 0.100\" (2.54mm)")
+   (family "CON")
+   (package "HTSW10209GS")
+   (attribute "Datasheet Link" "https://suddendocs.samtec.com/prints/htsw-xxx-xx-xxx-x-xx-xx-xx-mkt.pdf?_gl=1*q6shat*_gcl_aw*R0NMLjE3NTkxNDYwOTAuRUFJYUlRb2JDaE1JdDl6YzVmSDlqd01WWnBPREJ4MHBwQXNCRUFBWUFTQUFFZ0psaHZEX0J3RQ..*_gcl_au*MTc5OTcyNjQyOS4xNzUyMDczNjY4*_ga*NTM1MTc3ODU3LjE3MTI4MTU5")
+   (attribute "Geometry.Height" "8.58mm")
+   (attribute "Mouser Part Number" "200-HTSW10209GS")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samtec/HTSW-102-09-G-S?qs=0lQeLiL1qyZlsgTucBxUnA%3D%3D")
+   (attribute "Manufacturer_Name" "SAMTEC")
+   (attribute "Manufacturer_Part_Number" "HTSW-102-09-G-S")
+   (gate
+    (symbol "HTSW-102-09-G-S")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "HTSW-102-09-G-S"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "HTSW10209GS"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 1.27 1.245)
+      (pt -3.81 1.245)
+      (pt -3.81 -1.244)
+      (pt 1.27 -1.244)
+      (pt 1.27 1.245))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt 1.27 1.245)
+      (pt -3.81 1.245)
+      (pt -3.81 -1.244)
+      (pt 1.27 -1.244)
+      (pt 1.27 1.245))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 2.27 2.245)
+      (pt -4.81 2.245)
+      (pt -4.81 -2.244)
+      (pt 2.27 -2.244)
+      (pt 2.27 2.245))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 1.8 0)
+      (arc (pt 1.800 0.000) (pt 1.700 -0.050) (pt 1.800 0.050) (start 180.0) (sweep .0))
+      (pt 1.7 0)
+      (arc (pt 1.700 0.000) (pt 1.700 -0.050) (pt 1.800 0.050) (start 180.0) (sweep -180.0))
+      (pt 1.8 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt -2.540 0.000) (padstack 2))
+   (padstack 0
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (square 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (square 1.530))
+   )
+   (padstack 2
+    (hole 1.02)
+    (plated true)
+    (pad (layer TCOP) (round 1.530))
+    (pad (layer INNER) (round 1.530))
+    (pad (layer BCOP) (round 1.530))
+   )
+   (model "HTSW-102-09-G-S.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

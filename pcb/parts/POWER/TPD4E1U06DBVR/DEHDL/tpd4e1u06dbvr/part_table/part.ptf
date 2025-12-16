@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPD4E1U06DBVR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPD4E1U06DBVR" (!) = "", "SOT95P280X145-6N", "SOT23 (6-Pin)", "595-TPD4E1U06DBVR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPD4E1U06DBVR?qs=%2FCrDlo5IrVMRcCeY4Dk4aQ%3D%3D", "Quad High Speed ESD Protection SOT-23-6 Texas Instruments TPD4E1U06DBVR Quad Uni-Directional ESD Protection Array, 45W peak, 6-Pin SOT-23", "http://www.ti.com/lit/ds/symlink/tpd4e1u06.pdf", "1.45 mm"
+END_PART
+
+END.

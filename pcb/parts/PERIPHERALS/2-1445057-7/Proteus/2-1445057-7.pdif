@@ -1,0 +1,171 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "2-1445057-7"
+   (description "Configuration Features: PCB Mount Orientation Right Angle | Number of Rows 1 | Number of Positions 7 | Number of Power Positions 7 | Contact Features: PCB Contact Termination Area Plating Material Thickness 2.54 MICM | PCB Contact Termination Area Plating Material Tin | Contact Current Rating (Max) 5 AMP | Multiple Contact Types Without | Contact Retention Within Housing Without | Contact Layout Inline | PCB Contact Termination Area Plating Material Thickness 100 MICIN | Contact Mating Area Plating Material")
+   (family "CON")
+   (package "214450577")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=micro-mate-n-lok-connector-qrg&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-1445057-7&DocFormat=pdf")
+   (attribute "Geometry.Height" "5.67mm")
+   (attribute "Mouser Part Number" "571-2-1445057-7")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/2-1445057-7?qs=Eu63EZxBwKLXHKRdKJ3J%252Bw%3D%3D")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "2-1445057-7")
+   (gate
+    (symbol "2-1445057-7")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "4" 4 PS)
+    (pin "5" 5 PS)
+    (pin "6" 6 PS)
+    (pin "7" 7 PS)
+    (pin "MP1" MP1 PS)
+    (pin "MP2" MP2 PS)
+   )
+  )
+  (symbol "2-1445057-7"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 900 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "214450577"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -12.5 -5.58)
+      (pt 12.5 -5.58)
+      (pt 12.5 5.58)
+      (pt -12.5 5.58)
+      (pt -12.5 -5.58))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -15.35 6.96)
+      (pt 15.35 6.96)
+      (pt 15.35 -6.58)
+      (pt -15.35 -6.58)
+      (pt -15.35 6.96))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 10.2 5.58)
+      (pt 12.5 5.58)
+      (pt 12.5 0.22))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 12.5 -2.18)
+      (pt 12.5 -5.58)
+      (pt -12.5 -5.58)
+      (pt -12.5 -2.18))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -12.5 0.22)
+      (pt -12.5 5.58)
+      (pt -10.2 5.58))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 9 6.5)
+      (arc (pt 9.000 6.500) (pt 8.950 6.400) (pt 9.050 6.500) (start 180.0) (sweep 90.0))
+      (pt 9 6.4)
+      (arc (pt 9.000 6.400) (pt 8.950 6.400) (pt 9.050 6.500) (start 180.0) (sweep -90.0))
+      (pt 9 6.5)
+      (arc (pt 9.000 6.500) (pt 8.950 6.400) (pt 9.050 6.500) (start 180.0) (sweep 90.0))
+      (pt 9 6.4))))
+   (leg 1 (pt 9.000 4.500) (padstack 0))
+   (leg 2 (pt 6.000 4.500) (padstack 0))
+   (leg 3 (pt 3.000 4.500) (padstack 0))
+   (leg 4 (pt 0.000 4.500) (padstack 0))
+   (leg 5 (pt -3.000 4.500) (padstack 0))
+   (leg 6 (pt -6.000 4.500) (padstack 0))
+   (leg 7 (pt -9.000 4.500) (padstack 0))
+   (leg MP1 (pt 12.635 -0.980) (padstack 8))
+   (leg MP2 (pt -12.635 -0.980) (padstack 9))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.270 2.920 0 0 90.000))
+   )
+   (padstack 8
+    (plated false)
+    (pad (layer TCOP) (rectf 1.650 3.430 0 0 0.000))
+   )
+   (padstack 9
+    (plated false)
+    (pad (layer TCOP) (rectf 1.650 3.430 0 0 0.000))
+   )
+   (model "2-1445057-7.stp"
+    (euler 90 0 0)
+    (offset 0 -5.389999866485596 2.440000057220459)
+   )
+  )
+ )
+)

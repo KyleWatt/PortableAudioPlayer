@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=BQ25883RGER
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=1.1
+Released=2019-08-26 15:05:29
+Downloaded=2025-10-05 13:56:23
+3D=Y

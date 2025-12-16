@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HTSW-102-09-G-S"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-09-30-07:52:13)
+    (mountForm default
+        (footprintRef "HTSW10209GS")
+        (spec "System")
+    )
+)

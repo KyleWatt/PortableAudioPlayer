@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA1612AID
+D Audio Amplifiers 1.1nV Noise Low Pwr Prec Op Amp
+K
+F https://www.ti.com/lit/gpn/OPA1612
+$ENDCMP
+#
+#End Doc Library

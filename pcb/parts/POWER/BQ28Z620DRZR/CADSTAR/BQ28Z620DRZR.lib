@@ -1,0 +1,16 @@
+.BQ28Z620DRZR :1 ;Battery Management Battery fuel gauge with integrated protector for 1-series to 2 series packs with 1.2-V I/O
+BQ28Z610DRZT
+*STM IC
+*NGS
+*PLB 1="VSS" 2="SEN" 3="SRP" 4="TS1" 5="SCL" 6="SDA" 7="DSG" 8="PACK" 9="CHG" 10="PBI" 11="VC2" 12="VC1" 13="EP_1" 14="EP_2" 15="EP_3"
+*MXP 15
+*DFN BQ28Z620DRZR
+~!Mouser Part Number (595-BQ28Z620DRZR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ28Z620DRZR?qs=3Rah4i%252BhyCHmiL1YWVaWZQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (BQ28Z620DRZR)
+~!Link Datasheet (-)
+~!Height (1mm)
+~!3D_Model (BQ28Z620DRZR)
+BQ28Z620DRZR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TUSB320LAIRWBR
+D Type-C Configuration Channel Logic and Port Control
+K
+F http://www.ti.com/lit/gpn/tusb320lai
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.TPA6120A2DWPR :1 ;Audio Amplifiers High Fidelity Stereo Headphone Drv
+SOIC127P1040X275-21N
+*STM IC
+*NGS
+*PLB 1="LVCC-" 2="LOUT" 3="LVCC+" 4="LIN+" 5="LIN-" 6="NC_1" 7="NC_2" 8="NC_3" 9="NC_4" 10="NC_5" 11="NC_6" 12="NC_7" 13="NC_8" 14="NC_9" 15="NC_10" 16="RIN-" 17="RIN+" 18="RVCC+" 19="ROUT" 20="RVCC-" 21="EP"
+*MXP 21
+*DFN TPA6120A2DWPR
+~!Mouser Part Number (595-TPA6120A2DWPR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPA6120A2DWPR?qs=ojKcPFmCWSXiGd7G5JhN2A%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPA6120A2DWPR)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/tpa6120a2.pdf)
+~!Height (2.75mm)
+~!3D_Model (TPA6120A2DWPR)
+TPA6120A2DWPR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 

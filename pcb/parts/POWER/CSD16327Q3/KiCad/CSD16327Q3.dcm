@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD16327Q3
+D MOSFET N-Channel NexFET Pwr MOSFET
+K
+F 
+$ENDCMP
+#
+#End Doc Library

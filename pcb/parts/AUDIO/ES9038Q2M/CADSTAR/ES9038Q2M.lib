@@ -1,0 +1,16 @@
+.ES9038Q2M :1 ;Digital to Analog Converters - DAC Sabre 32 Reference Stereo low power audiophile DAC w/DOP
+QFN40P300X500X80-31N-D
+*STM IC
+*NGS
+*PLB 1="AVCC_R" 2="DACRB" 3="DACR" 4="BIAS" 5="SW" 6="FSYNC" 7="HPSDB" 8="DACL" 9="DACLB" 10="AVCC_L" 11="AGND_L" 12="VCCA_1" 13="DVCC" 14="DGND" 15="DVDD" 16="GPIO2" 17="GPIO1" 18="DATA2" 19="DATA1" 20="DATA_CLK" 21="RESETB" 22="RT1" 23="SCL" 24="SDA" 25="ADDR" 26="NC" 27="VCCA_2" 28="XOUT" 29="XI" 30="AGND_R" 31="EP"
+*MXP 31
+*DFN ES9038Q2M
+~!Mouser Part Number (460-ES9038Q2M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ESS-Technology/ES9038Q2M?qs=sPbYRqrBIVmdeUedURuuOw%3D%3D)
+~!Manufacturer_Name (ESS Technology)
+~!Manufacturer_Part_Number (ES9038Q2M)
+~!Link Datasheet (-)
+~!Height (0.8mm)
+~!3D_Model (ES9038Q2M)
+ES9038Q2M
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 

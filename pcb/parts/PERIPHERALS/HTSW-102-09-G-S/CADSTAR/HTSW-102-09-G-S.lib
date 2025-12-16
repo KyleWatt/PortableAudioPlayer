@@ -1,0 +1,16 @@
+.HTSW-102-09-G-S :1 ;Connector Header Through Hole 2 position 0.100" (2.54mm)
+HTSW10209GS
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN HTSW-102-09-G-S
+~!Mouser Part Number (200-HTSW10209GS)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Samtec/HTSW-102-09-G-S?qs=0lQeLiL1qyZlsgTucBxUnA%3D%3D)
+~!Manufacturer_Name (SAMTEC)
+~!Manufacturer_Part_Number (HTSW-102-09-G-S)
+~!Link Datasheet (https://suddendocs.samtec.com/prints/htsw-xxx-xx-xxx-x-xx-xx-xx-mkt.pdf?_gl=1*q6shat*_gcl_aw*R0NMLjE3NTkxNDYwOTAuRUFJYUlRb2JDaE1JdDl6YzVmSDlqd01WWnBPREJ4MHBwQXNCRUFBWUFTQUFFZ0psaHZEX0J3RQ..*_gcl_au*MTc5OTcyNjQyOS4xNzUyMDczNjY4*_ga*NTM1MTc3ODU3LjE3MTI4MTU5)
+~!Height (8.58mm)
+~!3D_Model (HTSW-102-09-G-S)
+HTSW-102-09-G-S
+1.1!U 2.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADPL42002ARDZ_3.3_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADPL42002ARDZ-3.3-R7" (!) = "", "SOIC127P600X175-9N", "Small Outline Packages", "", "", "20V, 200mA, Low Noise, CMOS LDO Linear Regulator", "https://www.analog.com/media/en/technical-documentation/data-sheets/adpl42002.pdf", "1.75 mm"
+END_PART
+
+END.

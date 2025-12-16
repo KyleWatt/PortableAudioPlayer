@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_766732"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-12-07-15:17:29)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "PTVS13VS1UR_115")
+)
+
+
+(pinAssign "ECS_766732"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-12-07-15:17:29)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_766732")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PTVS13VS1UR_115")
+)
+
+
+(part "PTVS13VS1UR_115"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-12-07-15:17:29)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "PTVS13VS1UR_115")
+    (pinAssignRef "ECS_766732")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "D")
+    (property "description" "PTVSxS1UR series - 400 W Transient Voltage Suppressor")
+    (property "Mouser_Part_Number" "771-PTVS13VS1UR115")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/PTVS13VS1UR115?qs=LMSg3oBIm%2FhUJXxROXWM%252Bg%3D%3D")
+    (property "Manufacturer_Name" "Nexperia")
+    (property "Manufacturer_Part_Number" "PTVS13VS1UR,115")
+    (property "Datasheet_Link" "https://assets.nexperia.com/documents/data-sheet/PTVSXS1UR_SER.pdf")
+)
+
+

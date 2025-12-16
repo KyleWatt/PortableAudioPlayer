@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32F405RGT6TR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=64
+Version=2.1
+Released=2015-06-17 00:00:00
+Downloaded=2025-09-27 13:01:57
+3D=Y

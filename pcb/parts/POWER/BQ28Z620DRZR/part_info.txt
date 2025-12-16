@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=BQ28Z620DRZR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=15
+Version=1.1
+Released=2024-01-08 11:48:09
+Downloaded=2025-10-04 18:27:52
+3D=Y

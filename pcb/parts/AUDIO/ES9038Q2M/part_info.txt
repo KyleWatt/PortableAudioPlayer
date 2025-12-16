@@ -1,0 +1,9 @@
+Manufacturer=ESS Technology
+PartNumber=ES9038Q2M
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=31
+Version=1.1
+Released=2020-12-14 04:26:08
+Downloaded=2025-09-27 14:36:14
+3D=Y

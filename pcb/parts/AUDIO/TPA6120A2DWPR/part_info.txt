@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPA6120A2DWPR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=21
+Version=1.1
+Released=2019-02-02 23:17:47
+Downloaded=2025-09-27 15:45:55
+3D=Y

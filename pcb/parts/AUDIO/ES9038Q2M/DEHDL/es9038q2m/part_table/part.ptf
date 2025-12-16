@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ES9038Q2M'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ESS Technology", "ES9038Q2M" (!) = "", "QFN40P300X500X80-31N-D", "Quad Flat No-Lead", "460-ES9038Q2M", "https://www.mouser.co.uk/ProductDetail/ESS-Technology/ES9038Q2M?qs=sPbYRqrBIVmdeUedURuuOw%3D%3D", "Digital to Analog Converters - DAC Sabre 32 Reference Stereo low power audiophile DAC w/DOP", "", "0.8 mm"
+END_PART
+
+END.

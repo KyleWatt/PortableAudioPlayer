@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CSD16327Q3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "CSD16327Q3" (!) = "", "CSD16327Q3", "Other", "595-CSD16327Q3", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CSD16327Q3?qs=3jfYfyvUSwCG33cNK3hedw%3D%3D", "MOSFET N-Channel NexFET Pwr MOSFET", "", "1.1 mm"
+END_PART
+
+END.

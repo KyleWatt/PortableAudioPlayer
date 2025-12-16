@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM27761DSGT
+D Low-Noise Regulated Inverter with Integrated LDO
+K
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM27761&&fileType=pdf
+$ENDCMP
+#
+#End Doc Library

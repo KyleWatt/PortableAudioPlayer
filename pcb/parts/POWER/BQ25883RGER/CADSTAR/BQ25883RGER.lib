@@ -1,0 +1,16 @@
+.BQ25883RGER :1 ;Battery Management BQ25883RGE
+QFN50P400X400X100-25N-D
+*STM IC
+*NGS
+*PLB 1="D-" 2="STAT" 3="'CE'" 4="SDA" 5="SCL" 6="'INT'" 7="TS" 8="ILIM" 9="'PG'" 10="NC" 11="REGN" 12="BTST" 13="BAT_1" 14="BAT_2" 15="SYS_1" 16="SYS_2" 17="SW_1" 18="SW_2" 19="GND_1" 20="GND_2" 21="PMID_1" 22="PMID_2" 23="VBUS" 24="D+" 25="EP"
+*MXP 25
+*DFN BQ25883RGER
+~!Mouser Part Number (595-BQ25883RGER)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ25883RGER?qs=EBDBlbfErPxzP5IdwHZrfw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (BQ25883RGER)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/bq25883.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&DCM=yes&ref_url=https%3A%2F%2Fwww.mouser.co.uk%2F)
+~!Height (1mm)
+~!3D_Model (BQ25883RGER)
+BQ25883RGER
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

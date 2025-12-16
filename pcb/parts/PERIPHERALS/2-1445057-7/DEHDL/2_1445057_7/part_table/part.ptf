@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2_1445057_7'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "2-1445057-7" (!) = "", "214450577", "Other", "571-2-1445057-7", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/2-1445057-7?qs=Eu63EZxBwKLXHKRdKJ3J%252Bw%3D%3D", "Configuration Features: PCB Mount Orientation Right Angle | Number of Rows 1 | Number of Positions 7 | Number of Power Positions 7 | Contact Features: PCB Contact Termination Area Plating Material Thickness 2.54 MICM | PCB Contact Termination Area Plating Material Tin | Contact Current Rating (Max) 5 AMP | Multiple Contact Types Without | Contact Retention Within Housing Without | Contact Layout Inline | PCB Contact Termination Area Plating Material Thickness 100 MICIN | Contact Mating Area Plating Material", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=micro-mate-n-lok-connector-qrg&DocType=Data%20Sheet&DocLang=English&PartCntxt=2-1445057-7&DocFormat=pdf", "5.67 mm"
+END_PART
+
+END.

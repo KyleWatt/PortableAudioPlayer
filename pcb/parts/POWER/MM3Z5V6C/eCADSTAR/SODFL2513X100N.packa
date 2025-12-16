@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MM3Z5V6C"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-11-12-20:49:07)
+    (mountForm default
+        (footprintRef "SODFL2513X100N")
+        (spec "System")
+    )
+)

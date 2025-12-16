@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CSD16327Q3"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CSD16327Q3")
+        (spec "default")
+    )
+)

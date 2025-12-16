@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADPL42002ARDZ-3.3-R7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=2.1
+Released=2025-10-01 12:16:59
+Downloaded=2025-10-10 16:28:59
+3D=Y

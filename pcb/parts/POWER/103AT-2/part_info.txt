@@ -1,0 +1,9 @@
+Manufacturer=Semitec
+PartNumber=103AT-2
+PartCategory=Thermistor
+PackageCategory=Other
+PinCount=2
+Version=2.3
+Released=2018-05-29 08:54:37
+Downloaded=2025-10-05 15:38:09
+3D=Y
