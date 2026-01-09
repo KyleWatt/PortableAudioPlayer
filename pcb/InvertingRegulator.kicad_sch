@@ -996,7 +996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 91.44 74.93 0)
 			(effects
 				(font
@@ -1197,7 +1197,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 142.24 86.36 0)
 			(effects
 				(font
@@ -1265,7 +1265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SON50P200X200X80-9N"
+		(property "Footprint" "LM27761DSGT:SON50P200X200X80-9N"
 			(at 137.16 164.77 0)
 			(effects
 				(font
@@ -1537,7 +1537,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 148.082 86.36 90)
 			(effects
 				(font
@@ -1604,7 +1604,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 148.082 74.93 90)
 			(effects
 				(font
@@ -1673,7 +1673,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 106.68 81.28 0)
 			(effects
 				(font
@@ -1740,7 +1740,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 104.14 70.612 90)
 			(effects
 				(font

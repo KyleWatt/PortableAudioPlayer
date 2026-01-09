@@ -4103,7 +4103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 97.79 105.41 0)
 			(effects
 				(font
@@ -4172,7 +4172,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOIC127P1040X275-21N"
+		(property "Footprint" "TPA6120A2DWPR:SOIC127P1040X275-21N"
 			(at 69.85 190.17 0)
 			(effects
 				(font
@@ -4350,7 +4350,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 97.79 135.89 0)
 			(effects
 				(font
@@ -4417,7 +4417,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 144.78 51.308 90)
 			(effects
 				(font
@@ -4616,7 +4616,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 103.632 41.91 90)
 			(effects
 				(font
@@ -4686,7 +4686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOIC127P1040X275-21N"
+		(property "Footprint" "TPA6120A2DWPR:SOIC127P1040X275-21N"
 			(at 132.08 183.82 0)
 			(effects
 				(font
@@ -4862,7 +4862,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 144.78 83.058 90)
 			(effects
 				(font
@@ -4932,7 +4932,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOIC127P1040X275-21N"
+		(property "Footprint" "TPA6120A2DWPR:SOIC127P1040X275-21N"
 			(at 95.25 130.48 0)
 			(effects
 				(font
@@ -5240,7 +5240,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 106.68 135.89 0)
 			(effects
 				(font
@@ -5310,7 +5310,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SOIC127P1040X275-21N"
+		(property "Footprint" "TPA6120A2DWPR:SOIC127P1040X275-21N"
 			(at 99.06 152.07 0)
 			(effects
 				(font
@@ -5551,7 +5551,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 121.92 93.218 90)
 			(effects
 				(font
@@ -5619,7 +5619,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SJ335083CTR"
+		(property "Footprint" "SJ3-35083C-TR:SJ335083CTR"
 			(at 205.74 159.69 0)
 			(effects
 				(font
@@ -5744,7 +5744,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 121.92 61.468 90)
 			(effects
 				(font
@@ -5813,7 +5813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 106.68 105.41 0)
 			(effects
 				(font
@@ -5947,7 +5947,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 103.632 73.66 90)
 			(effects
 				(font

@@ -1549,7 +1549,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b38cda8-2d9e-498d-aa57-64c69279c382")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0185"
 			(at 121.92 100.33 0)
 			(effects
 				(font
@@ -1599,7 +1599,7 @@
 		(instances
 			(project "pcb"
 				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/3c6e45af-922a-4a02-b622-bda7ee6aa402/38f3ac9c-af0f-47be-bfc0-e866c2baa60e"
-					(reference "#PWR?")
+					(reference "#PWR0185")
 					(unit 1)
 				)
 			)
@@ -1616,7 +1616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28faa58c-06b0-4168-8de3-62a73e5d2841")
-		(property "Reference" "IC?"
+		(property "Reference" "IC17"
 			(at 119.38 49.53 0)
 			(effects
 				(font
@@ -1632,7 +1632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOP65P490X110-13N"
+		(property "Footprint" "LT3045EMSE#PBF:SOP65P490X110-13N"
 			(at 130.81 152.07 0)
 			(effects
 				(font
@@ -1753,7 +1753,7 @@
 		(instances
 			(project "pcb"
 				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/3c6e45af-922a-4a02-b622-bda7ee6aa402/38f3ac9c-af0f-47be-bfc0-e866c2baa60e"
-					(reference "IC?")
+					(reference "IC17")
 					(unit 1)
 				)
 			)
@@ -1786,7 +1786,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 140.97 83.82 0)
 			(effects
 				(font
@@ -1853,7 +1853,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 140.97 74.422 90)
 			(effects
 				(font
@@ -1905,7 +1905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bb14d4e-8c42-49c4-ba3e-356b4021723e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0183"
 			(at 57.15 74.93 0)
 			(effects
 				(font
@@ -1955,7 +1955,7 @@
 		(instances
 			(project "pcb"
 				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/3c6e45af-922a-4a02-b622-bda7ee6aa402/38f3ac9c-af0f-47be-bfc0-e866c2baa60e"
-					(reference "#PWR?")
+					(reference "#PWR0183")
 					(unit 1)
 				)
 			)
@@ -2053,7 +2053,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 76.2 64.77 0)
 			(effects
 				(font
@@ -2185,7 +2185,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 97.79 69.342 90)
 			(effects
 				(font
@@ -2252,7 +2252,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 102.362 87.63 90)
 			(effects
 				(font
@@ -2385,7 +2385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 154.432 80.01 90)
 			(effects
 				(font
@@ -2519,7 +2519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 140.97 64.77 0)
 			(effects
 				(font
@@ -2588,7 +2588,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 57.15 62.23 0)
 			(effects
 				(font
@@ -2640,7 +2640,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec88c636-4f1b-46b7-8e48-0601eaa3c083")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0184"
 			(at 149.86 85.09 0)
 			(effects
 				(font
@@ -2690,7 +2690,7 @@
 		(instances
 			(project "pcb"
 				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/3c6e45af-922a-4a02-b622-bda7ee6aa402/38f3ac9c-af0f-47be-bfc0-e866c2baa60e"
-					(reference "#PWR?")
+					(reference "#PWR0184")
 					(unit 1)
 				)
 			)
@@ -2723,7 +2723,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 165.1 80.01 0)
 			(effects
 				(font
@@ -2792,7 +2792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 83.82 67.31 0)
 			(effects
 				(font
@@ -2859,7 +2859,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 154.432 68.58 90)
 			(effects
 				(font
@@ -2928,7 +2928,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 67.31 62.23 0)
 			(effects
 				(font

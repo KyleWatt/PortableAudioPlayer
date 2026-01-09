@@ -874,7 +874,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 97.79 88.9 0)
 			(effects
 				(font
@@ -943,7 +943,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 161.29 88.9 0)
 			(effects
 				(font
@@ -1144,7 +1144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 134.62 109.22 0)
 			(effects
 				(font
@@ -1278,7 +1278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-9N"
+		(property "Footprint" "ADPL42002ARDZ-3.3-R7:SOIC127P600X175-9N"
 			(at 144.78 178.74 0)
 			(effects
 				(font

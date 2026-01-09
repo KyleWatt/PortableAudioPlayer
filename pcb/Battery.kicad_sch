@@ -5,6 +5,185 @@
 	(uuid "7840aaf6-1f3c-408a-934c-a4b69315c9cc")
 	(paper "A4")
 	(lib_symbols
+		(symbol "103AT-2:103AT-2"
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "RT"
+				(at 13.97 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "103AT-2"
+				(at 13.97 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "103AT2"
+				(at 13.97 -96.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.semitec-global.com/uploads/2022/01/P12-13-AT-Thermistor.pdf"
+				(at 13.97 -196.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "NTC (Negative Temperature Coefficient) Thermistors 10kohm 1%"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "9.5"
+				(at 13.97 -396.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "954-103AT-2"
+				(at 13.97 -496.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Semitec/103AT-2?qs=wgO0AD0o1vvcDzsKguD%252Bew%3D%3D"
+				(at 13.97 -596.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Semitec"
+				(at 13.97 -696.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "103AT-2"
+				(at 13.97 -796.19 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "103AT-2_1_1"
+				(rectangle
+					(start 5.08 1.27)
+					(end 12.7 -1.27)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.588 -2.032) (xy 7.112 -2.032)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 10.668 2.032) (xy 7.112 -2.032)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "1043_1"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1600,143 +1779,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:Thermistor"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TH"
-				(at 2.54 1.27 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Thermistor"
-				(at -2.54 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Temperature dependent resistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "R res thermistor"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Thermistor_0_1"
-				(polyline
-					(pts
-						(xy -1.905 3.175) (xy -1.905 1.905) (xy 1.905 -1.905) (xy 1.905 -3.175) (xy 1.905 -3.175)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.016 2.54)
-					(end 1.016 -2.54)
-					(stroke
-						(width 0.2032)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Thermistor_1_1"
-				(pin passive line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "MM3Z5V6C:MM3Z5V6C"
 			(pin_names
 				(hide yes)
@@ -2320,7 +2362,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 106.68) (xy 189.23 106.68)
+			(xy 193.04 106.68) (xy 189.23 106.68)
 		)
 		(stroke
 			(width 0.254)
@@ -2360,16 +2402,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 90.17) (xy 146.05 93.98)
-		)
-		(stroke
-			(width 0.254)
-			(type default)
-		)
-		(uuid "21bbda90-2d61-4916-97c0-9f9b8b55e343")
-	)
-	(wire
-		(pts
 			(xy 64.77 76.2) (xy 64.77 78.74)
 		)
 		(stroke
@@ -2377,16 +2409,6 @@
 			(type default)
 		)
 		(uuid "225f564c-ab44-492b-bbe1-dc3497568176")
-	)
-	(wire
-		(pts
-			(xy 146.05 104.14) (xy 146.05 105.41)
-		)
-		(stroke
-			(width 0.254)
-			(type default)
-		)
-		(uuid "24b2af84-7e84-4f45-a223-aeb72a281da5")
 	)
 	(wire
 		(pts
@@ -2720,7 +2742,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 95.25) (xy 184.15 106.68)
+			(xy 189.23 95.25) (xy 189.23 106.68)
 		)
 		(stroke
 			(width 0.254)
@@ -2867,16 +2889,6 @@
 			(type default)
 		)
 		(uuid "7c31cfb5-d7f8-40fd-a022-a3293274cafb")
-	)
-	(wire
-		(pts
-			(xy 184.15 106.68) (xy 189.23 106.68)
-		)
-		(stroke
-			(width 0.254)
-			(type default)
-		)
-		(uuid "827df25f-d56a-4e8c-bf02-d865826d83e3")
 	)
 	(wire
 		(pts
@@ -3270,6 +3282,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 95.25) (xy 184.15 95.25)
+		)
+		(stroke
+			(width 0.254)
+			(type default)
+		)
+		(uuid "cdc8ab81-1aed-40c5-81fa-55859518602b")
+	)
+	(wire
+		(pts
 			(xy 118.11 87.63) (xy 107.95 87.63)
 		)
 		(stroke
@@ -3300,7 +3322,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 106.68) (xy 203.2 106.68)
+			(xy 198.12 106.68) (xy 203.2 106.68)
 		)
 		(stroke
 			(width 0.254)
@@ -3417,6 +3439,16 @@
 			(type default)
 		)
 		(uuid "eb85dcc0-0605-4e89-8054-273af6eb56ab")
+	)
+	(wire
+		(pts
+			(xy 146.05 107.95) (xy 146.05 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1ec2ebf-fbe0-4eaa-a480-3eecf932bfa2")
 	)
 	(wire
 		(pts
@@ -3538,7 +3570,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 175.26 113.03 0)
 			(effects
 				(font
@@ -3607,7 +3639,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SODFL2513X100N"
+		(property "Footprint" "MM3Z5V6C:SODFL2513X100N"
 			(at 227 101.6 0)
 			(effects
 				(font
@@ -3726,7 +3758,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 121.92 85.852 90)
 			(effects
 				(font
@@ -3777,8 +3809,8 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "15a6109b-a8b0-4cf6-a64d-a4c17de1381f")
-		(property "Reference" "#PWR058"
+		(uuid "1a983099-3ac5-418f-8231-dd297a9781b7")
+		(property "Reference" "#PWR028"
 			(at 184.15 147.32 0)
 			(effects
 				(font
@@ -3787,7 +3819,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND1"
+		(property "Value" "GND"
 			(at 184.15 146.05 0)
 			(effects
 				(font
@@ -3823,28 +3855,66 @@
 			)
 		)
 		(pin "1"
-			(uuid "fb23efe0-a620-4521-8b5d-0fb8638129f5")
+			(uuid "a2baf2a6-118a-4467-95ef-5777fc0771e4")
 		)
 		(instances
 			(project "pcb"
 				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
-					(reference "#PWR058")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 172.72 120.65 0)
+		(lib_id "103AT-2:103AT-2")
+		(at 146.05 90.17 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "218fcc0b-0334-414b-a2c7-5d89c96cdd28")
-		(property "Reference" "#PWR052"
-			(at 172.72 127 0)
+		(uuid "29574299-41ad-408b-a94a-3284814fc458")
+		(property "Reference" "RT2"
+			(at 139.954 92.202 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 139.954 94.742 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "103AT-2:103AT2"
+			(at 49.86 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.semitec-global.com/uploads/2022/01/P12-13-AT-Thermistor.pdf"
+			(at -50.14 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "NTC (Negative Temperature Coefficient) Thermistors 10kohm 1%"
+			(at 146.05 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3852,114 +3922,66 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND2"
-			(at 177.038 121.412 0)
+		(property "Height" "9.5"
+			(at -250.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Footprint" ""
-			(at 172.72 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 172.72 120.65 0)
+		(property "Mouser Part Number" "954-103AT-2"
+			(at -350.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 172.72 120.65 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Semitec/103AT-2?qs=wgO0AD0o1vvcDzsKguD%252Bew%3D%3D"
+			(at -450.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "1"
-			(uuid "3d449f3d-4bd4-406e-9e52-75cb16fe2a05")
-		)
-		(instances
-			(project "pcb"
-				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
-					(reference "#PWR052")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 105.41 99.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2530d3bb-b375-4238-8eb7-8a90dc734b86")
-		(property "Reference" "#PWR055"
-			(at 105.41 105.41 0)
+		(property "Manufacturer_Name" "Semitec"
+			(at -550.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Value" "GND1"
-			(at 105.41 104.14 0)
+		(property "Manufacturer_Part_Number" "103AT-2"
+			(at -650.14 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Footprint" ""
-			(at 105.41 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 105.41 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 105.41 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
+				(justify left top)
 				(hide yes)
 			)
 		)
 		(pin "1"
-			(uuid "b5cfefd8-9d62-49c9-b80c-cb6b4587f9cc")
+			(uuid "2583efe5-6df2-4fd6-835f-464e716dbec1")
+		)
+		(pin "2"
+			(uuid "97c91659-8949-45ff-8bce-238b80569fb6")
 		)
 		(instances
 			(project "pcb"
 				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
-					(reference "#PWR055")
+					(reference "RT2")
 					(unit 1)
 				)
 			)
@@ -3990,7 +4012,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 127 121.412 90)
 			(effects
 				(font
@@ -4059,7 +4081,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 140.97 49.53 0)
 			(effects
 				(font
@@ -4128,7 +4150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 213.36 96.52 0)
 			(effects
 				(font
@@ -4197,7 +4219,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSD16327Q3"
+		(property "Footprint" "CSD16327Q3:CSD16327Q3"
 			(at 149.86 157.15 0)
 			(effects
 				(font
@@ -4314,7 +4336,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 196.85 106.68 90)
+		(at 195.58 106.68 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4322,7 +4344,7 @@
 		(dnp no)
 		(uuid "421ad442-56f7-4573-aee9-3010a9086c78")
 		(property "Reference" "C36"
-			(at 199.136 110.236 90)
+			(at 197.866 110.236 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4331,7 +4353,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 200.914 103.378 90)
+			(at 199.644 103.378 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4339,8 +4361,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 196.85 106.68 0)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 195.58 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4349,7 +4371,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 196.85 106.68 0)
+			(at 195.58 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4358,7 +4380,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 196.85 106.68 0)
+			(at 195.58 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4406,7 +4428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 121.92 113.792 90)
 			(effects
 				(font
@@ -4476,7 +4498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_3.0x3.0mm"
 			(at 242.57 67.31 0)
 			(effects
 				(font
@@ -4517,16 +4539,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 146.05 105.41 0)
+		(at 214.63 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "53d56714-7d00-410a-9b9b-0e86f790b857")
-		(property "Reference" "#PWR054"
-			(at 146.05 111.76 0)
+		(uuid "53a46d2c-7c2e-4278-abb3-6a30e04e2fa4")
+		(property "Reference" "#PWR016"
+			(at 214.63 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4534,8 +4556,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND2"
-			(at 146.05 110.49 0)
+		(property "Value" "GND"
+			(at 214.63 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4543,7 +4565,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 105.41 0)
+			(at 214.63 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4552,7 +4574,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 105.41 0)
+			(at 214.63 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4561,7 +4583,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 146.05 105.41 0)
+			(at 214.63 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4570,12 +4592,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "f7a7d71e-a787-46ad-b58b-6b5557b3449b")
+			(uuid "3d2c2aef-1f0a-4654-a64c-7e071835c744")
 		)
 		(instances
 			(project "pcb"
 				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
-					(reference "#PWR054")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -4608,7 +4630,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SODFL2513X100N"
+		(property "Footprint" "MM3Z5V6C:SODFL2513X100N"
 			(at 209.22 100.33 0)
 			(effects
 				(font
@@ -4729,7 +4751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "BQ28Z610DRZT"
+		(property "Footprint" "BQ28Z620DRZR:BQ28Z610DRZT"
 			(at 180.34 177.47 0)
 			(effects
 				(font
@@ -4891,7 +4913,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1043"
+		(property "Footprint" "1049P:1049"
 			(at 264.16 177.47 0)
 			(effects
 				(font
@@ -4986,72 +5008,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 213.36 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "61b642ab-bf48-40c1-9e42-43c8c2b78fd5")
-		(property "Reference" "#PWR014"
-			(at 213.36 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND2"
-			(at 213.36 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 213.36 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 213.36 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f952acbf-a650-415c-8043-1c1dbfbaebbf")
-		)
-		(instances
-			(project "pcb"
-				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 229.87 91.44 270)
 		(unit 1)
@@ -5076,7 +5032,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 229.87 89.662 90)
 			(effects
 				(font
@@ -5144,7 +5100,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CSD16327Q3"
+		(property "Footprint" "CSD16327Q3:CSD16327Q3"
 			(at 116.84 157.15 0)
 			(effects
 				(font
@@ -5260,6 +5216,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 213.36 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6974ff99-e41d-441f-862a-aaf204aec4c6")
+		(property "Reference" "#PWR014"
+			(at 213.36 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 213.36 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 213.36 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 213.36 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 213.36 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b541ee32-1f6c-4c92-94df-0745f09a6b8d")
+		)
+		(instances
+			(project "pcb"
+				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
+					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 148.59 85.09 270)
 		(unit 1)
@@ -5284,7 +5306,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 148.59 83.312 90)
 			(effects
 				(font
@@ -5327,75 +5349,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Thermistor")
-		(at 146.05 99.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "79a30017-92e5-4121-8e80-22bb10d0e42a")
-		(property "Reference" "TH1"
-			(at 141.732 91.948 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10k"
-			(at 141.732 94.488 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 146.05 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 146.05 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Temperature dependent resistor"
-			(at 146.05 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "54863386-56ca-4295-be6e-aa39fa34c08c")
-		)
-		(pin "2"
-			(uuid "1622f1d8-1993-47e6-834f-7bc329809aba")
-		)
-		(instances
-			(project "pcb"
-				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
-					(reference "TH1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 196.85 139.7 270)
 		(unit 1)
@@ -5420,7 +5373,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 196.85 137.922 90)
 			(effects
 				(font
@@ -5487,7 +5440,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 84.582 74.93 90)
 			(effects
 				(font
@@ -5554,7 +5507,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 139.7 121.412 90)
 			(effects
 				(font
@@ -5624,7 +5577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_3.0x3.0mm"
 			(at 242.57 91.44 0)
 			(effects
 				(font
@@ -5688,7 +5641,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 191.008 127 90)
 			(effects
 				(font
@@ -5755,7 +5708,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 159.512 73.66 90)
 			(effects
 				(font
@@ -5823,7 +5776,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_0805_2012Metric"
 			(at 226.06 69.088 90)
 			(effects
 				(font
@@ -5894,7 +5847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1043"
+		(property "Footprint" "1049P:1049"
 			(at 264.16 193.98 0)
 			(effects
 				(font
@@ -6015,7 +5968,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 213.36 82.55 0)
 			(effects
 				(font
@@ -6058,6 +6011,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 172.72 120.65 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b9b9342a-2aab-4752-a291-c214b2c744a1")
+		(property "Reference" "#PWR05"
+			(at 172.72 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 172.72 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 172.72 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f2a7224e-61c9-4c97-9b63-0d4d013f1ddd")
+		)
+		(instances
+			(project "pcb"
+				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 109.22 115.57 270)
 		(unit 1)
@@ -6082,7 +6101,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 109.22 113.792 90)
 			(effects
 				(font
@@ -6151,7 +6170,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 107.95 49.53 0)
 			(effects
 				(font
@@ -6220,7 +6239,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 64.77 81.28 0)
 			(effects
 				(font
@@ -6263,72 +6282,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 214.63 142.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d4bca6c5-1221-44bf-a7e0-ddfd9408f1d4")
-		(property "Reference" "#PWR016"
-			(at 214.63 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND2"
-			(at 214.63 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 214.63 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 214.63 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "13e63625-ea69-4b10-986f-ad8632e18ed2")
-		)
-		(instances
-			(project "pcb"
-				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
-					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 203.2 127 180)
 		(unit 1)
@@ -6353,7 +6306,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 204.978 127 90)
 			(effects
 				(font
@@ -6396,6 +6349,138 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 105.41 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc76c7bc-9c61-4c9f-80dd-6319f6839b44")
+		(property "Reference" "#PWR01"
+			(at 105.41 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 105.41 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 105.41 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 105.41 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b3115378-b60a-4e6d-bff2-20adccdc19cd")
+		)
+		(instances
+			(project "pcb"
+				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 146.05 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "de70e3a9-c31f-4587-b593-a89e3645721c")
+		(property "Reference" "#PWR04"
+			(at 146.05 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 146.05 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 146.05 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 146.05 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 146.05 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1acae2e3-3fcf-4ba8-971f-216f652ac518")
+		)
+		(instances
+			(project "pcb"
+				(path "/0eb23f11-7b6a-445b-9941-73800592c9c0/a374f7f9-840e-4f0c-b221-b48771a4edc6/2334b1d6-4441-4bba-82e7-63673ab5946a"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 213.36 72.39 180)
 		(unit 1)
@@ -6423,7 +6508,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 215.138 72.39 90)
 			(effects
 				(font
@@ -6492,7 +6577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 64.77 73.66 0)
 			(effects
 				(font

@@ -1854,7 +1854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 74.93 72.39 0)
 			(effects
 				(font
@@ -2116,7 +2116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" "OPA1612AID:SOIC127P600X175-8N"
 			(at 143.51 164.77 0)
 			(effects
 				(font
@@ -2255,7 +2255,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 74.93 104.14 0)
 			(effects
 				(font
@@ -2389,7 +2389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 140.97 72.39 0)
 			(effects
 				(font
@@ -2523,7 +2523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 198.12 82.55 0)
 			(effects
 				(font
@@ -2787,7 +2787,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 226.06 83.82 0)
 			(effects
 				(font
@@ -2921,7 +2921,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 93.98 72.39 0)
 			(effects
 				(font
@@ -3055,7 +3055,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 140.97 104.14 0)
 			(effects
 				(font
@@ -3123,7 +3123,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" "OPA1612AID:SOIC127P600X175-8N"
 			(at 143.51 196.52 0)
 			(effects
 				(font
@@ -3325,7 +3325,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 83.82 69.088 90)
 			(effects
 				(font
@@ -3394,7 +3394,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 198.12 88.9 0)
 			(effects
 				(font
@@ -3461,7 +3461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 83.82 100.838 90)
 			(effects
 				(font
@@ -3594,7 +3594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOIC127P600X175-8N"
+		(property "Footprint" "OPA1612AID:SOIC127P600X175-8N"
 			(at 231.14 173.66 0)
 			(effects
 				(font
@@ -3733,7 +3733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 93.98 104.14 0)
 			(effects
 				(font
@@ -3867,7 +3867,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 226.06 90.17 0)
 			(effects
 				(font
